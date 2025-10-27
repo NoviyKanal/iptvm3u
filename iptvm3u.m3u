@@ -158,6 +158,29 @@ https://flussonic.salomtv.uz/EURONEWS/video.m3u8
 #EXTGRP:Международные
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:0,RT
+#EXTGRP:Международные
 http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:0,RT Д
+#EXTGRP:Международные
 http://stream-msk-10.ott.tricolor.tv/dtv/id357_MSKSG-PVR-1--RTD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTUzMDQyOCwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwOTI1NjI4LCJzZXNzaW9uX2lkIjoiY2UzZDlhZTA3NTJlYmJhYWYyNDU4NDI1MjJjZjhkY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nQarfxv2-Q1EvSL_fuJxWZA2GV6Z1C4vwkTUVIHJUXA
+#EXTINF:0,Рен ТВ International
+#EXTGRP:Международные
+http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+#EXTINF:0,РТР Планета Европа
+#EXTGRP:Международные
+http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
+#EXTINF:0,РТР Планета США
+#EXTGRP:Международные
+http://rcplayer.vgtrk.com/iframe/stream/live_id/63250
+#EXTINF:0,РТР Россия СНГ
+#EXTGRP:Международные
+http://rcplayer.vgtrk.com/iframe/stream/live_id/63253
+#EXTINF:0,РТР Россия Азия
+#EXTGRP:Международные
+http://rcplayer.vgtrk.com/iframe/stream/live_id/63254
+#EXTINF:0,Первый канал ВС
+#EXTGRP:Международные
+https://streaming.goodstream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:0,НТВ Мир
+#EXTGRP:Международные
+https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
