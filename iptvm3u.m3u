@@ -75,17 +75,17 @@ https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 #EXTINF:0,Радио РБК
 #EXTGRP:Радио
 https://hls-01-rbc.hostingradio.ru/rbc-fed0/112/playlist.m3u8
-#EXTINF:-1 tvg-id="match-tv" group-title="Спортивные",Матч! HD
+#EXTINF:-1 tvg-id="match-tv" group-title="Спортивные",Матч! HD (НЕ РАБОТАЕТ)
 http://live-mirror-01.ott.tricolor.tv/live/live/match/hls_enc/match.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTUzMDQyOCwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwOTI1NjI4LCJzZXNzaW9uX2lkIjoiY2UzZDlhZTA3NTJlYmJhYWYyNDU4NDI1MjJjZjhkY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nQarfxv2-Q1EvSL_fuJxWZA2GV6Z1C4vwkTUVIHJUXA
-#EXTINF:-1tvg-id="match-arena" group-title="Спортивные", Матч! Арена
+#EXTINF:-1tvg-id="match-arena" group-title="Спортивные", Матч! Арена 
 http://46.8.46.14/arena/index.m3u8
-#EXTINF:-1tvg-id="match-arena" group-title="Спортивные", Матч! Арена HD
+#EXTINF:-1tvg-id="match-arena" group-title="Спортивные", Матч! Арена HD (НЕ РАБОТАЕТ)
 http://193.111.244.35:7474/matcharena/index.m3u8
-#EXTINF:-1 tvg-id="match-boets" group-title="Спортивные", Матч Боец
+#EXTINF:-1 tvg-id="match-boets" group-title="Спортивные", Матч! Боец
 http://91.194.191.241:8081/chid143/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-igra" group-title="Спортивные", Матч! Игра
 http://91.194.191.241:8081/chid53/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="match-igra" group-title="Спортивные", Eurosport
+#EXTINF:-1 tvg-id="match-igra" group-title="Спортивные", Eurosport или Матч! Игра
 http://46.8.46.14/eurosport/index.m3u8
 #EXTINF:0,Беларусь 1
 #EXTGRP:Беларусь
@@ -111,7 +111,7 @@ https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b516000
 #EXTINF:0,СТВ
 #EXTGRP:Беларусь
 https://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
-#EXTINF:0,Белрос
+#EXTINF:0,Белрос   
 #EXTGRP:Беларусь
 https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:0,Euronews
@@ -153,4 +153,5 @@ http://178.124.152.238:8088/dom
 #EXTINF:0,360° Международный HD
 #EXTGRP:Международные
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/mono.m3u8
+
 
