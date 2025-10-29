@@ -96,12 +96,6 @@ https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_slen
 #EXTINF:0,Беларусь 3
 #EXTGRP:Беларусь
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:0,Беларусь 5 (НЕ РАБОТАЕТ)
-#EXTGRP:Беларусь
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:0,Беларусь 5 Интернет (НЕ РАБОТАЕТ)
-#EXTGRP:Беларусь
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/chunklist_b2660000_sleng.m3u8
 #EXTINF:0,ОНТ
 #EXTGRP:Беларусь
 https://edge50.dc.beltelecom.by/ont/ont/chunklist_b5160000_sleng.m3u8
@@ -111,9 +105,9 @@ https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b516000
 #EXTINF:0,СТВ
 #EXTGRP:Беларусь
 https://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
-#EXTINF:0,Белрос   
+#EXTINF:0,Беларусь 24
 #EXTGRP:Беларусь
-https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
 #EXTINF:0,Euronews
 #EXTGRP:Международные
 https://flussonic.salomtv.uz/EURONEWS/video.m3u8
@@ -147,11 +141,13 @@ https://streaming.goodstream.cyou/live/210-req_offset_28000000-req_window_0-1k_v
 #EXTINF:0,НТВ Мир
 #EXTGRP:Международные
 https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:0,Домашний International
+#EXTINF:0,Домашний International (НЕ РАБОТАЕТ)
 #EXTGRP:Международные
 http://178.124.152.238:8088/dom
 #EXTINF:0,360° Международный HD
 #EXTGRP:Международные
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/mono.m3u8
+#EXTINF:0,
+
 
 
